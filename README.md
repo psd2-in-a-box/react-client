@@ -13,4 +13,9 @@ Simple react based client
   * brunch watch --server
 * Go have fun!
 
+## Status
+
+Restored most features, missing is FlipMove action to 
+animate/move selected transaction from timeline to top of
+transaction list (bottom)
 
